@@ -1,0 +1,10 @@
+[
+    {
+        "image": "expand",
+        "odds": 10
+    },
+    {
+        "image": "reduce",
+        "odds": 10
+    },
+]
