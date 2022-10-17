@@ -40,6 +40,7 @@ class WaitingForTap: GKState {
 }
 
 class Playing: GKState {
+    
     unowned let scene: GameScene
     
     init(scene: SKScene) {
